@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+httpx[http2]
+pydantic
+openai
+h2
+tenacity
+scikit-learn
+numpy
+pandas
+joblib
