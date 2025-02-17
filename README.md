@@ -1,5 +1,7 @@
 # Sentinel Platform
 
+| This Project was developed by Husam, Bhavya and Keane as part of the 2024-2025 ACM Impactathon Hackathon.
+
 ![Sentinel Platform](/public/sentinel-thumbnail.png)
 
 Sentinel is a comprehensive security and compliance platform that combines two powerful tools: Sentinel Comply for compliance analysis and Sentinel Prime for threat detection.
